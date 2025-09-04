@@ -57,5 +57,6 @@ The project uses **TensorFlow/Keras ANN** for training and **Streamlit** for cre
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/your-username/Customer-Churn-Prediction-Deep-Learning-Streamlit-App.git
+   git clone https://github.com/siddhu00747/bank-customer-churn.git
    cd Customer-Churn-Prediction-Deep-Learning-Streamlit-App
+
