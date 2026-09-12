@@ -50,6 +50,7 @@ The project uses **TensorFlow/Keras ANN** for training and **Streamlit** for cre
 - **Web App:** Streamlit  
 - **Other Tools:** Pickle (for saving scaler)
 
+
 ---
 
 
